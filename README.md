@@ -18,4 +18,4 @@ US Hospitals were analyzed based on their Hours of Physical Restraint Use.
 
 # The Image 
 
-![The Visualizations](https://github.com/mrbalikci/endangered-languages/blob/master/languages.gif)
+![The Visualizations](https://github.com/mrbalikci/US-hospital-analysis/blob/master/hospital.gif)
